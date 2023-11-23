@@ -1,5 +1,4 @@
 ### Hi there I'm Alessandro👋
-<br>
 - 🔭 I’m currently working on Develope MySelf
 - 🌱 I’m currently learning java
 - 📫 How to reach me: Alessandromarangoni980@gmail.com
