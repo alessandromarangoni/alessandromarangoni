@@ -10,7 +10,7 @@
 
 <br>
 
-## 📊 GitHub Stats & Trophy:
+##  📊 GitHub Stats & Trophy:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alessandromarangoni&no-frame=true&rank=AAA,B&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <span> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandromarangoni&show_icons=true&locale=en&layout=compact&theme=onedark" alt="alessandromarangoni" /> </span>
