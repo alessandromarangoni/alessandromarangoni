@@ -8,5 +8,5 @@
 
 <br>
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=soniabergamini&count_private=true&show_icons=true&theme=dark&hide_border=false) <br>
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=soniabergamini&hide_border=false&theme=dark) <br>
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=alessandromarangoni&count_private=true&show_icons=true&theme=dark&hide_border=false) <br>
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=alessandromarangoni&hide_border=false&theme=dark) <br>
