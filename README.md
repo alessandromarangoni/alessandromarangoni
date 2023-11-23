@@ -13,7 +13,7 @@
 <br>
 ## 📊 GitHub Stats & Trophy:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandromarangoni&show_icons=true&locale=en&layout=compact" alt="simonescoca" /></p>
+<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandromarangoni&show_icons=true&locale=en&layout=compact" alt="simonescoca" /></span>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alessandromarangoni&no-frame=true&rank=AAA,B&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
