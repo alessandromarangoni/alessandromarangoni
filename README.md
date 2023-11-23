@@ -20,5 +20,5 @@
 <br>
 
 <span> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandromarangoni&show_icons=true&locale=en&layout=compact&theme=onedark" alt="alessandromarangoni" /> </span>
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=alessandromarangoni&hide_border=false&theme=dark) <br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alessandromarangoni&theme=transparent&border_radius=5.7)](https://git.io/streak-stats)
 
