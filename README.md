@@ -15,7 +15,8 @@
 
 
 <span> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandromarangoni&show_icons=true&locale=en&layout=compact&theme=onedark" alt="alessandromarangoni" /> </span>
-<span>  <img align="left" src="https://github-profile-trophy.vercel.app/?username=alessandromarangoni&no-frame=true&rank=AAA,B&theme=onedark/>  <span>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=soniabergamini&no-frame=true&rank=AAA,B&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=alessandromarangoni&count_private=true&show_icons=true&theme=dark&hide_border=false)
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=alessandromarangoni&hide_border=false&theme=dark) <br>
 
