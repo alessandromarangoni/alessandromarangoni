@@ -22,10 +22,10 @@
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alessandromarangoni&no-frame=true&rank=AAA,B&theme=dracula radius=12.1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=alessandromarangoni&no-frame=true&rank=AAA,B&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
-<span> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandromarangoni&show_icons=true&locale=en&layout=compact&theme=transparent" alt="alessandromarangoni" /> </span>
+<span> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandromarangoni&show_icons=true&locale=en&layout=compact&theme=transparent&radius=12.1" alt="alessandromarangoni" /> </span>
 [![GitHub Streak](https://streak-stats.demolab.com?user=alessandromarangoni&theme=transparent&border_radius=12.1&locale=it&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
