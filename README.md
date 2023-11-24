@@ -1,3 +1,7 @@
+
+
+<img src="https://www.troublefreepool.com/media/hello-gif.3474/full" alt="hello"/>
+
 ### Hi there I'm Alessandro👋
 - 🔭 I’m currently working on Develope MySelf
 - 🌱 I’m currently learning java
