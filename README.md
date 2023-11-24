@@ -22,7 +22,7 @@
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alessandromarangoni&no-frame=true&rank=AAA,B&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=alessandromarangoni&no-frame=true&rank=AAA,B&theme=dracula radius=12.1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 
