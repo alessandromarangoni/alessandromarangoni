@@ -29,3 +29,4 @@
 <span> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=alessandromarangoni&show_icons=true&locale=en&layout=compact&theme=transparent&radius=12.1" alt="alessandromarangoni" /> </span>
 [![GitHub Streak](https://streak-stats.demolab.com?user=alessandromarangoni&theme=transparent&border_radius=12.1&locale=it&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=antonioannunziata28&label=Profile%20views&color=0e75b6&style=flat" alt="alessandromarangoni" /> </p>
